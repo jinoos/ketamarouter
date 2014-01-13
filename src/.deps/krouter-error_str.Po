@@ -1,0 +1,3 @@
+krouter-error_str.o: error_str.c error_str.h
+
+error_str.h:
